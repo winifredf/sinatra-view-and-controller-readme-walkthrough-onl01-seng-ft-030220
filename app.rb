@@ -15,6 +15,7 @@ class App < Sinatra::Base
 
   get '/friends' do
     <% @friends.each do |friend| %>
+      
  
   <% end %>
   
