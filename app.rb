@@ -14,7 +14,7 @@ class App < Sinatra::Base
   end
 
   get '/friends' do
-    @friends = [""]
+    @friends = ["Emily Wilding Davison", ""]
   
     # Write your code here!
 
