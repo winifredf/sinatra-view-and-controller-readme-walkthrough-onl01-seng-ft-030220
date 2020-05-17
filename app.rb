@@ -9,10 +9,7 @@ class App < Sinatra::Base
     erb :reverse
   end
 
-  # post '/reverse' do
-  #   erb :reversed
-  # end
-
+ 
   
   
     # Write your code here!
