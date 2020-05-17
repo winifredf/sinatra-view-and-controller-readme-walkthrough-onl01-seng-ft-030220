@@ -25,5 +25,5 @@ class App < Sinatra::Base
     @reversed_string = original_string.reverse
  
   erb :reversed
-
+  end
 end
